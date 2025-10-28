@@ -1,1 +1,1 @@
-# I'm Onyx 👋
+# Hi! I'm Onyx 👋
