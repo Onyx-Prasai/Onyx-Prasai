@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=35&color=00FFFF&center=true&vCenter=true&width=600&height=70&duration=4000&lines=+Hi!;+I'm+Onyx+Prasai!;+Welcome+to+My+Sanctum!"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=35&color=90EE90&center=true&vCenter=true&width=600&height=70&duration=4000&lines=+Hi!;+I'm+Onyx+Prasai!;+Welcome+to+My+Sanctum!"/>
 </h1>
 
 # 💫 About Me:
