@@ -1,3 +1,6 @@
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=35&color=00FFFF&center=true&vCenter=true&width=600&height=70&duration=4000&lines=+Hi!;+I'm+Onyx+Prasai!;+Welcome+to+My+Sanctum!"/>
+</h1>
 # 💫 About Me:
 I am Onyx Prasai, a computer engineering student who loves to explore the world with full of new techs, trye understand them and play with them.
 
