@@ -1,6 +1,5 @@
 # 💫 About Me:
-I am a student.<br>I know langauges like C, Cpp, Python, HTML, CSS, JS, Doker, Git and GIthub<br>I am also familiar with Linux systems
-
+I am Onyx Prasai, a computer engineering student who loves to explore the world with full of new techs, trye understand them and play with them.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/onyx-prasai-99a16934a/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:onyxefforts@gmail.com) 
